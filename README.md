@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Austincao2022
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on shockwave device.
+- 💞️ I’m looking to collaborate on shockwave therapy device.
 - 📫 How to reach me :shenzhen, china. +86-13682554424.
 
 <!---
