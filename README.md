@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Austincao2022
+- 👋 Hi, I’m @Austincao
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on shockwave therapy device.
